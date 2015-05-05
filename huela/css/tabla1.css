@@ -1,0 +1,264 @@
+.titulo_tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #328AA4;
+	text-align: center;
+	margin: 0px;
+	padding-top: 7px;
+	padding-right: 5px;
+	padding-bottom: 7px;
+	padding-left: 5px;
+	background-image: url(../img/tr_back.gif);
+	background-position: right top;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999999;
+	line-height: normal;
+	background-repeat:   repeat-x;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #333333;
+}
+.fondo_tabla {
+	background-color: #FFFFFF;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	margin: auto;
+}
+.celda_titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: bold;
+	color: #006699;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: center;
+	padding: 5px;
+}
+.celda_titulo2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: bold;
+	color: #006699;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: center;
+	padding: 5px;
+	background-color: #F9F9F9;
+}
+.celda_titulo_azul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: bold;
+	color: #006699;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	padding: 5px;
+	vertical-align: middle;
+}
+.celda_titulo_azul_fndgris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: bold;
+	color: #006699;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	padding: 5px;
+	background-color: #F9F9F9;
+	vertical-align: middle;
+}
+
+.celda_titulo_negro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: bold;
+	color: #333333;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	padding: 5px;
+	vertical-align: middle;
+}
+.celda_titulo_negro_fndgris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: bold;
+	color: #333333;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	padding: 5px;
+	background-color: #F9F9F9;
+	vertical-align: middle;
+}
+
+
+
+
+.celda_normal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+}
+.celda_normal2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	background-color: #F9F9F9;
+}
+.celda_normal_azul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #006699;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+}
+.celda_normal_azul_fndgris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #006699;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	background-color: #F9F9F9;
+}
+.fuente_tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	line-height: normal;
+	color: #003366;
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+}
+.rollover_img:link, .rollover_img:active, .rollover_img:visited {
+	background-color: #003366;
+	margin: 0px;
+	padding: 2px;
+	border: 2px solid #003366;
+}
+.celda_normal_centrado {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+}
+.celda_normal_just_arriba {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-left-color: #666666;
+	text-align: left;
+	vertical-align: top;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+}
